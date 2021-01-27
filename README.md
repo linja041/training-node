@@ -1,2 +1,2 @@
 # training-node
-some node for study
+nothing important
